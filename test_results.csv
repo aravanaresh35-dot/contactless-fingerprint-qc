@@ -1,0 +1,21 @@
+File,Expected Category,Passed,Expected Pass,Correctly Classified,Composite Score,Blur Score,Brightness,Glare Fraction,ROI Fraction,Ridge Score,Latency (ms),Guidance
+blur_01.jpg,blurry,False,False,True,77.5,9.34,146.66,0.0,0.4821,517.15,82.28,Image is too blurry. Hold your camera steady and re-focus.
+blur_02.jpg,blurry,False,False,True,77.7,9.73,146.68,0.0,0.4231,552.35,70.29,Image is too blurry. Hold your camera steady and re-focus.
+blur_03.jpg,blurry,False,False,True,77.7,9.79,146.68,0.0,0.4418,596.45,67.99,Image is too blurry. Hold your camera steady and re-focus.
+blur_04.jpg,blurry,False,False,True,77.5,9.42,146.68,0.0,0.4824,517.98,67.6,Image is too blurry. Hold your camera steady and re-focus.
+blur_05.jpg,blurry,True,False,False,77.9,10.21,146.69,0.0,0.4145,771.09,69.04,Good capture — ready for processing.
+dark_01.jpg,dark,False,False,True,69.4,12.24,29.14,0.0,0.3485,56.05,76.82,Lighting is too dark. Turn on your flash or move to a lit area.
+dark_02.jpg,dark,False,False,True,69.5,12.43,29.14,0.0,0.3486,48.64,69.57,Lighting is too dark. Turn on your flash or move to a lit area.
+dark_03.jpg,dark,False,False,True,69.7,12.68,29.14,0.0,0.3492,77.42,70.37,Lighting is too dark. Turn on your flash or move to a lit area.
+dark_04.jpg,dark,False,False,True,69.6,12.5,29.14,0.0,0.3493,65.68,69.31,Lighting is too dark. Turn on your flash or move to a lit area.
+dark_05.jpg,dark,False,False,True,69.4,12.16,29.14,0.0,0.3489,94.57,67.12,Lighting is too dark. Turn on your flash or move to a lit area.
+glare_01.jpg,glare,False,False,True,57.2,2.62,154.75,0.0527,0.3337,921.98,69.42,Image is too blurry. Hold your camera steady and re-focus.
+glare_02.jpg,glare,False,False,True,55.5,2.62,158.53,0.0874,0.3118,1023.67,69.35,Image is too blurry. Hold your camera steady and re-focus.
+glare_03.jpg,glare,False,False,True,54.5,2.74,163.08,0.1228,0.301,1202.72,67.99,Image is too blurry. Hold your camera steady and re-focus.
+glare_04.jpg,glare,False,False,True,54.2,2.94,162.88,0.1066,0.2942,1062.56,70.3,Image is too blurry. Hold your camera steady and re-focus.
+glare_05.jpg,glare,False,False,True,53.6,2.62,164.82,0.1308,0.2901,1320.0,67.21,Image is too blurry. Hold your camera steady and re-focus.
+good_01.jpg,good,True,True,True,97.6,507.71,146.66,0.0,0.346,1359.29,69.98,Good capture — ready for processing.
+good_02.jpg,good,True,True,True,97.6,506.73,146.68,0.0,0.3459,1173.71,71.46,Good capture — ready for processing.
+good_03.jpg,good,True,True,True,97.6,510.0,146.68,0.0,0.3467,1893.46,71.98,Good capture — ready for processing.
+good_04.jpg,good,True,True,True,97.6,512.36,146.68,0.0,0.3469,1600.22,71.14,Good capture — ready for processing.
+good_05.jpg,good,True,True,True,97.6,506.1,146.69,0.0,0.3465,2320.74,72.42,Good capture — ready for processing.
