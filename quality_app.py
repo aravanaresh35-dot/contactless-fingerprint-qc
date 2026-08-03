@@ -21,7 +21,7 @@ from __future__ import annotations
 
 import time
 
-import cv2
+#import cv2
 import numpy as np
 import streamlit as st
 
